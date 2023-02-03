@@ -12,4 +12,3 @@ function array(arr) {
 
   console.log(result);
 }
-hekkko;
